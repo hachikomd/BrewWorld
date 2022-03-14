@@ -250,9 +250,9 @@ h4 {
 }
 
 @media (max-width: 700px) {
-/* .top-nav{
+.top-nav{
   justify-content: space-between;
-} */
+}
   .menu-button-container {
     display: -webkit-box;
     display: -ms-flexbox;
